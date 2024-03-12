@@ -1,0 +1,7 @@
+﻿  AI.cpp
+C:\Github\OpenGL\Oblig2 prog\CompulsoryProgramming2\CompulsoryProgramming2\AI.h(23,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CompulsoryProgramming2.cpp
+C:\Github\OpenGL\Oblig2 prog\CompulsoryProgramming2\CompulsoryProgramming2\Ai.h(23,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Github\OpenGL\Oblig2 prog\CompulsoryProgramming2\CompulsoryProgramming2\CompulsoryProgramming2.cpp(487,8): error C2512: 'AI': no appropriate default constructor available
+C:\Github\OpenGL\Oblig2 prog\CompulsoryProgramming2\CompulsoryProgramming2\Ai.h(6,7): message : see declaration of 'AI'
+  Generating Code...
